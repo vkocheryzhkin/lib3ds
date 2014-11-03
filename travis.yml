@@ -1,0 +1,10 @@
+language: cpp
+compiler:
+- gcc
+script: mkdir build && cd build && cmake .. && make
+notifications:
+email:
+recipients:
+- vkocherizhkin@gmail.com
+on_success: change
+on_failure: always
