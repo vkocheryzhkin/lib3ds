@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/107/trunk/examples/3dsplay
+END
+3dsplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/107/trunk/examples/3dsplay/3dsplay.cpp
+END
+tga.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/106/trunk/examples/3dsplay/tga.h
+END
+tga.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/106/trunk/examples/3dsplay/tga.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/106/trunk/examples/3dsplay/CMakeLists.txt
+END

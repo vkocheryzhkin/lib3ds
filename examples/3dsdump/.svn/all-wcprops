@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/103/trunk/examples/3dsdump
+END
+3dsdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/103/trunk/examples/3dsdump/3dsdump.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/examples/3dsdump/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/91/trunk/examples/3dsdump/CMakeLists.txt
+END

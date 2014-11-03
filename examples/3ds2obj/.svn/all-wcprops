@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/trunk/examples/3ds2obj
+END
+3ds2obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/85/trunk/examples/3ds2obj/3ds2obj.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/examples/3ds2obj/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/91/trunk/examples/3ds2obj/CMakeLists.txt
+END

@@ -1,0 +1,3 @@
+INCLUDE_DIRECTORIES( ${lib3ds_SOURCE_DIR}/src )
+ADD_EXECUTABLE(3dsdump 3dsdump.c)
+TARGET_LINK_LIBRARIES(3dsdump lib3ds)

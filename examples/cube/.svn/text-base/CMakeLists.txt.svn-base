@@ -1,0 +1,3 @@
+INCLUDE_DIRECTORIES( ${lib3ds_SOURCE_DIR}/src )
+ADD_EXECUTABLE(cube cube.c)
+TARGET_LINK_LIBRARIES(cube lib3ds)
