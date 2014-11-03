@@ -34,4 +34,7 @@ ENDIF(WIN32)
 
 SET_TARGET_PROPERTIES(lib3ds
     PROPERTIES VERSION 2.0)
+
+# Install Rules	
+install (TARGETS lib3ds DESTINATION "bin")
     
