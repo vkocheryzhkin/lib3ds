@@ -1,7 +1,3 @@
-if(UNIX)
-	link_libraries(m)
-endif(UNIX)
-
 ADD_SUBDIRECTORY(3ds2obj)
 ADD_SUBDIRECTORY(3dsdump)
 ADD_SUBDIRECTORY(cube)
