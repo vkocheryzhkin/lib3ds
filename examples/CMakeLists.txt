@@ -1,3 +1,5 @@
+find_library(M_LIB m)
+
 ADD_SUBDIRECTORY(3ds2obj)
 ADD_SUBDIRECTORY(3dsdump)
 ADD_SUBDIRECTORY(cube)
